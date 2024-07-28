@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TargetCaseStudy</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_testing">Testing</string>
+
+    <string name="detail_screen_title">Detail Screen</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="reg">reg</string>
+    <string name="in_aisle">in aisle</string>
+    <string name="product_details">Product details</string>
+
+
+</resources>
